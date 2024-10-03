@@ -1,0 +1,6 @@
+/.vs
+/.vscode
+/lib/
+/out/
+/CMakePresets.json
+/CMakeSettings.json
